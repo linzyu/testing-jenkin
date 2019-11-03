@@ -1,5 +1,5 @@
 git status
 git add .
-git commit add -m"complate"
+git commit -m"complate"
 git push -u origin master
 
